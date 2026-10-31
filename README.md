@@ -64,62 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Outside.in is a technology company focused on providing location-based services and data analytics for outdoor activities and enterprise applications. Founded with backing from Union Square Ventures, the company builds APIs that enable developers to integrate real-time geospatial data, weather insights, and user activity tracking into their platforms. While the public website is currently unreachable, the company’s presence is noted in venture portfolios and industry listings, indicating an active development roadmap and potential for future API offerings.
+Outside.in is a technology startup identified through the API Evangelist harvest process, originally listed from a venture capital portfolio source and backed by Union Square Ventures. While detailed public information about its product offerings is limited, the company appears to be positioned within the data services or external data integration space, aiming to provide APIs that enable developers to access external datasets. The stub entry reflects the early stage of profiling, pending further discovery of its official website, documentation, and API specifications.
 
-**Areas:** Company · Location · Geospatial · DataAnalytics · Outdoors
+**Areas:** Company · Startup · VC-backed · Data · API · Technology
 
 ## Outside.in on APIs.io
 
 Everything profiled for Outside.in is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/in-com/](https://apis.io/providers/in-com/)** — or go straight to one of the APIs or properties below.
 
-## Where to find this API
-
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
-
-- [Website](https://outside.in.com)
-
 ## API Evangelist rating
 
-**Kin Score 2.2** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/in-com/](https://apis.io/providers/in-com/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
